@@ -6,11 +6,13 @@ public class Shop {
          Product product2 = new Product("mleko", 2.5);
 //       Product product2 = product1;
 
-        if (product1 == product2) {
+        if (product1.equals(product2)) {
             System.out.println("Równe");
         } else {
             System.out.println("Produkty są różne");
         }
+
+
 
         String str1 = new String("Ania");
         String str2 = new String("Ania");
@@ -19,7 +21,13 @@ public class Shop {
 //        String str1 = "Ania";
 //        String str2 = "Ania";
 
-        if (str1 == str2) {
+//        if (str1 == str2) {
+//            System.out.println("Równe");
+//        } else {
+//            System.out.println("Produkty są różne");
+//        }
+
+        if (str1.equals(str2)) {
             System.out.println("Równe");
         } else {
             System.out.println("Produkty są różne");
