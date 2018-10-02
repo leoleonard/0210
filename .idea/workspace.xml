@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="fefbd559-3765-433c-b9bc-942b45f51d3b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/src/two/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/two/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/two/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/two/Shop.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,12 +32,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3897" />
+          <entry key="java" value="4052" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3897" />
+          <entry key="JAVA" value="4052" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts" />
@@ -47,11 +48,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/two/Product.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="373">
-              <caret line="46" column="66" selection-start-line="46" selection-start-column="66" selection-end-line="46" selection-end-column="66" />
+              <caret line="54" column="32" lean-forward="true" selection-start-line="54" selection-start-column="32" selection-end-line="54" selection-end-column="32" />
               <folding>
                 <element signature="e#226#227#0" expanded="true" />
                 <element signature="e#253#254#0" expanded="true" />
@@ -61,16 +62,18 @@
                 <element signature="e#385#386#0" expanded="true" />
                 <element signature="e#427#428#0" expanded="true" />
                 <element signature="e#461#462#0" expanded="true" />
+                <element signature="e#1586#1587#0" expanded="true" />
+                <element signature="e#1625#1626#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/two/Shop.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+            <state relative-caret-position="324">
+              <caret line="40" column="7" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -102,8 +105,8 @@
         <option value="$PROJECT_DIR$/src/one/Employee.java" />
         <option value="$PROJECT_DIR$/src/one/Director.java" />
         <option value="$PROJECT_DIR$/src/one/Company.java" />
-        <option value="$PROJECT_DIR$/src/two/Shop.java" />
         <option value="$PROJECT_DIR$/src/two/Product.java" />
+        <option value="$PROJECT_DIR$/src/two/Shop.java" />
       </list>
     </option>
   </component>
@@ -157,7 +160,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538500353494" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538500592949" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -245,12 +248,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538492503078</updated>
-      <workItem from="1538492504554" duration="7405000" />
+      <workItem from="1538492504554" duration="7694000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7405000" />
+    <option name="totallyTimeSpent" value="7694000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-10" y="23" width="1450" height="794" extended-state="6" />
@@ -263,7 +266,7 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2237216" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.32932332" />
+      <window_info anchor="bottom" id="Messages" weight="0.32905984" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -406,17 +409,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/two/Shop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/two/Product.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="373">
-          <caret line="46" column="66" selection-start-line="46" selection-start-column="66" selection-end-line="46" selection-end-column="66" />
+          <caret line="54" column="32" lean-forward="true" selection-start-line="54" selection-start-column="32" selection-end-line="54" selection-end-column="32" />
           <folding>
             <element signature="e#226#227#0" expanded="true" />
             <element signature="e#253#254#0" expanded="true" />
@@ -426,7 +422,16 @@
             <element signature="e#385#386#0" expanded="true" />
             <element signature="e#427#428#0" expanded="true" />
             <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#1586#1587#0" expanded="true" />
+            <element signature="e#1625#1626#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/two/Shop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="40" column="7" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
         </state>
       </provider>
     </entry>

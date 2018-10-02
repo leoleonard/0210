@@ -32,5 +32,12 @@ public class Shop {
         } else {
             System.out.println("Produkty są różne");
         }
+
+        int hash1 = product1.hashCode();
+        int hash2 = product2.hashCode();
+        System.out.println(hash1);
+        System.out.println(hash2);
+
+       
     }
 }

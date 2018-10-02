@@ -47,9 +47,11 @@ public class Product {
         if(price != other.price)            // ceny sa takie same;
             return false;
         return true; // porownanie nie tylko referencji, ale i wartosci strukturalnej;
+//        return super.equals(obj);
+    }
 
-
-
-        return super.equals(obj);
+    @Override
+    public int hashCode() {
+        return super.hashCode();
     }
 }
