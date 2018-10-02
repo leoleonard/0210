@@ -1,5 +1,7 @@
 package two;
 
+import java.util.Objects;
+
 public class Product {
     private String name;
     private double price;
@@ -49,9 +51,14 @@ public class Product {
         return true; // porownanie nie tylko referencji, ale i wartosci strukturalnej;
 //        return super.equals(obj);
     }
-
+//
     @Override
     public int hashCode() {
-        return super.hashCode();
+        return Objects.hash(name, price);
+    }
+
+    @Override
+    public String toString() {
+        return name + " ::: " + price;
     }
 }

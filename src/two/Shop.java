@@ -38,6 +38,11 @@ public class Shop {
         System.out.println(hash1);
         System.out.println(hash2);
 
-       
+       String opis1 = product1.toString();
+        String opis2 = product2.toString();
+        System.out.println(opis1);
+        System.out.println(opis2);
+        System.out.println(product1.toString());
+        System.out.println(product2);
     }
 }
