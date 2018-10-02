@@ -46,7 +46,7 @@ public class Product {
         }
         if(price != other.price)            // ceny sa takie same;
             return false;
-        return true;
+        return true; // porownanie nie tylko referencji, ale i wartosci strukturalnej;
 
 
 
